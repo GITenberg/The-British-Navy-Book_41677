@@ -1,0 +1,36 @@
+_repo: The-British-Navy-Book_41677
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41677-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Field, Cyril
+    birthdate: 1859
+    deathdate: 1942
+    gutenberg_agent_id: '41298'
+    url: http://www.gutenberg.org/2009/agents/41298
+description: ''
+gutenberg_issued: '2012-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History'
+- !lcsh 'Great Britain -- History, Naval'
+- !lcc 'DA'
+tableOfContents: 'Prologue: the command of the sea (A.D. 1915) -- A lesson from Cæsar
+  -- Ancient war-ships -- Fighting-ships of the Middle Ages -- Mariners of other days
+  -- Some mediæval sea-fights -- The navy in Tudor times -- From Elizabeth to Victoria
+  -- The "Turks" in the channel -- The honour of the flag -- The evolution of naval
+  gunnery -- Evolution of the ironclad battleship -- The evolution of the submarine
+  and submarine mine -- Naval brigades -- War-ships of all sorts -- The manning of
+  a ship -- Beginning of the war afloat -- Operations in the North Sea and Channel
+  -- In the outer seas -- A reverse and a victory -- German raids and their signal
+  punishment -- The Royal Naval Air Service.'
+title: The British Navy Book
+url: http://www.gutenberg.org/ebooks/41677
